@@ -59,10 +59,103 @@ body {
   }
 
 
+  .header h1 {
+    font-size: 6vw;
+  }
+  
+  .header p {
+    font-size: 2vw;
+  }
+  
+  .container-fluid.header {
+    padding: 0;
+  }
 
+  .header-background {
+    padding: 0;
+    position: relative;
+  }
+  
+  .centered {
+    position: absolute;
+    top: 25%;
+    left: 5%;
+    text-align: center;
+    width: 100%
+  }
+  projects {
+    padding-top: 100px;
+    padding-bottom: 100px;
+  }
+  
+  .projects h2 {
+    padding-left: 100px;
+  }
+  
+  
+  .proj {
+    margin: 10px;
+  }
+  
+  .proj-des {
+    text-align: left;
+  }
+  
+  .proj img {
+    width: 500px;
+    height: auto;
+    padding-bottom: 10px;
+  }
+  
+  .proj i {
+    font-size: 30px;
+  }
 
+  .about-me {
+    background-color: #A9795F;
+    padding: 100px 50px 100px;
+  }
+  
+  .about-me img{
+    float: left;
+    border-radius: 50%;
+    margin-bottom: 10%;
+    height: 400px;
+    padding:0;
+  
+  }
+  
+  .about-me h3{
+    font-size: 4vw;
+  }
+  
+  .card h4{
+    padding-top:25px;
+  }
 
+  .background {
+    text-align: left;
+    padding: 100px;
+  }
+  
+  .background img{
+    float: left;
+    margin: 0 50px 50px 50px;
+  }
+  
+  .b-desc{
+    padding-top:50px;
+  }
 
+  .hobbies{
+    background-color: #A9795F;
+  }
+  .hobbies p{
+    padding: 50px;
+  }
+  .hobbies ol{
+    margin:0;
+  }
 
 
 
