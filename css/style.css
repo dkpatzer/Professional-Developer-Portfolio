@@ -72,7 +72,7 @@ body {
   }
 
   .header-background {
-    padding: 0;
+    padding: 100px 0 100px 0;
     position: relative;
   }
   
@@ -142,6 +142,13 @@ body {
     float: left;
     margin: 0 50px 50px 50px;
   }
+
+  
+.image-container img {
+  max-width: 50%; /* The image will shrink proportionally to fit within the container */
+  height: auto; /* Maintains the aspect ratio */
+}
+
   
   .b-desc{
     padding-top:50px;
