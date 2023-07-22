@@ -19,8 +19,7 @@
 
 
 ## Installation
-
-
+I began by setting up a basic HTML structure including the head section, header, nav,and main,celements. I added a link to the Bootstrap CSS file, the second link for the Google font 'Alegreya', and a link to my own style.css file. I began the header section including my navbar markup links. I then outlined my basic css file including the body and navbar styling. I then worked on the main section, adding links and pictures of projects I worked on individiually, adding and modifying the CSS as I went along.
 
 ## Usage
 
