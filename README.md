@@ -76,4 +76,4 @@ Learn Every CSS Selector In 20 Minutes WDS:https://www.youtube.com/watch?v=l1mER
 
 ## Tests
 
-.
+I tested the app by running it in the browser and resizing the window to see how it responded. I also used the Chrome Dev Tools to test the responsiveness of the app on different devices.
