@@ -78,11 +78,18 @@ ul, ol {
 
 .centered {
   position: absolute;
-  top: 25%;
+  top: 15%;
   left: 5%;
   text-align: center;
-  width: 100%
+  width: 100%;
 }
+
+.centered p, .centered h1 {
+  font-weight: 800;  
+  color: white;        
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);  
+}
+
 projects {
   padding-top: 100px;
   padding-bottom: 100px;
