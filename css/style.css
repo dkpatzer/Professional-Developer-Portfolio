@@ -35,7 +35,7 @@ ul, ol {
 }
 
 .navbar-light .navbar-nav .nav-link{
-  color: #E4E0E4;
+  color: #060efd;
   text-shadow: 1px 1px #A9795F;
 }
 
@@ -78,7 +78,7 @@ ul, ol {
 
 .centered {
   position: absolute;
-  top: 15%;
+  top: 20%;
   left: 5%;
   text-align: center;
   width: 100%;
